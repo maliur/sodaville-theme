@@ -1,0 +1,41 @@
+{
+    "name": "sodaville-theme",
+    "displayName": "Sodaville",
+    "description": "Sodaville theme",
+    "publisher": "Maliur",
+    "version": "0.1.0",
+    "type": "module",
+    "engines": {
+        "vscode": "^1.49.0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/maliur/sodaville-theme"
+    },
+    "bugs": {
+        "url": "https://github.com/maliur/sodaville-theme/issues",
+        "email": "zene@tuta.io"
+    },
+    "license": "MIT",
+    "keywords": [
+        "sodaville",
+        "theme",
+        "dark",
+        "deus"
+    ],
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Sodaville",
+                "uiTheme": "vs-dark",
+                "path": "./themes/sodaville-theme-dark.json"
+            }
+        ]
+    },
+    "scripts": {
+        "build": "node ./src/main.js"
+    }
+}
