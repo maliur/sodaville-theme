@@ -7,7 +7,7 @@
 ## Installation
 
 - Open the Extensions sidebar in VS Code
-- Search for `Sodaville`
+- Search for `Sodaville Theme`
 - Click Install
 - Open the Command Palette with Ctrl+Shift+P or ⇧⌘P
 - Select Preferences: Color Theme and choose `Sodaville`.

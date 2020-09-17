@@ -1,9 +1,9 @@
 {
     "name": "sodaville-theme",
-    "displayName": "Sodaville",
-    "description": "Sodaville theme",
+    "displayName": "Sodaville Theme",
+    "description": "A dark theme with soft colors",
     "publisher": "Maliur",
-    "version": "0.1.1",
+    "version": "0.1.0",
     "type": "module",
     "engines": {
         "vscode": "^1.49.0"
@@ -14,7 +14,7 @@
     },
     "bugs": {
         "url": "https://github.com/maliur/sodaville-theme/issues",
-        "email": "maliru@protonmail.com"
+        "email": "maliur@protonmail.com"
     },
     "license": "MIT",
     "keywords": [
@@ -23,6 +23,7 @@
         "dark",
         "deus"
     ],
+    "icon": "icon.png",
     "categories": [
         "Themes"
     ],
