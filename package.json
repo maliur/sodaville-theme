@@ -3,7 +3,7 @@
     "displayName": "Sodaville",
     "description": "Sodaville theme",
     "publisher": "Maliur",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "type": "module",
     "engines": {
         "vscode": "^1.49.0"
@@ -14,7 +14,7 @@
     },
     "bugs": {
         "url": "https://github.com/maliur/sodaville-theme/issues",
-        "email": "zene@tuta.io"
+        "email": "maliru@protonmail.com"
     },
     "license": "MIT",
     "keywords": [
