@@ -37,6 +37,10 @@
         ]
     },
     "scripts": {
-        "build": "node ./src/main.js"
+        "build": "node ./src/main.js",
+        "package": "vsce package -o ./sodaville-theme.vsix"
+    },
+    "devDependencies": {
+        "vsce": "^1.81.1"
     }
 }
