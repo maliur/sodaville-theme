@@ -12,7 +12,7 @@
 - Open the Command Palette with Ctrl+Shift+P or ⇧⌘P
 - Select Preferences: Color Theme and choose `Sodaville`.
 
-or install the vsix file from the release page
+or install the vsix file from the [release page](https://github.com/maliur/sodaville-theme/releases)
 
 ## License
 This theme is released under the <a href="https://raw.githubusercontent.com/maliur/sodaville-theme/master/LICENSE" target="_BLANK">MIT license</a>
